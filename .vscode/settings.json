@@ -1,0 +1,7 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 500,
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "Monokai",
+  "editor.tabSize": 2
+}
